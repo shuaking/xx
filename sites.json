@@ -1,0 +1,11 @@
+[
+  {
+    "name": "网站一",
+    "url": "https://www.baidu.com/"
+  },
+  {
+    "name": "网站二",
+    "url": "https://www.google.com/"
+  }
+  // 更多网站
+]
